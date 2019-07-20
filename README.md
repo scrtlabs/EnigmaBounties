@@ -1,0 +1,2 @@
+# EnigmaBounties
+Secret Contract samples
