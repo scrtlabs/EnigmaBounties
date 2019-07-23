@@ -19,14 +19,14 @@ These bounties will become part of our educational resources moving forward, and
 
 In this batch, we’re funding work on these particular applications:
 
--   Secret Access-Control
+-   [Secret Access-Control](https://github.com/enigmampc/EnigmaBounties/issues/1)
     
--   Secret Benchmarking
+-   [Secret Benchmarking](https://github.com/enigmampc/EnigmaBounties/issues/2)
     
--   Non-Fungible Token Lottery
+-   [Non-Fungible Token Lottery](https://github.com/enigmampc/EnigmaBounties/issues/3)
     
--   Secret Data Validation
+-   [Secret Data Validation](https://github.com/enigmampc/EnigmaBounties/issues/4)
     
--   Rock-Paper-Scissors
+-   [Rock-Paper-Scissors](https://github.com/enigmampc/EnigmaBounties/issues/5)
 
 Each application is described in more detail inside the respective issue. 
