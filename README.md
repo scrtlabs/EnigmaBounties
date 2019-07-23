@@ -30,3 +30,8 @@ In this batch, we’re funding work on these particular applications:
 -   [Rock-Paper-Scissors](https://github.com/enigmampc/EnigmaBounties/issues/5)
 
 Each application is described in more detail inside the respective issue. 
+
+## Rewards
+
+Rewards will be delivered in ENG. 
+The value of ETH to USD will be pegged at the time of transfer, after we've recieved recipients’ ETH addresses.
