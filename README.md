@@ -35,3 +35,9 @@ Each application is described in more detail inside the respective issue.
 
 Rewards will be delivered in ENG. 
 The value of ETH to USD will be pegged at the time of transfer, after we've recieved recipients’ ETH addresses.
+
+## Application Process
+
+As described within each bounty, please follow the application process before starting work. We will be selecting one applicant per bounty, based on interest and prior experience. 
+1. Comment on the issue that you are submitting an application.
+2. Fill out the [application form] (https://airtable.com/shrN7Bu95f3R21XKx) (and specify which bounty you are applying for within the form). 
